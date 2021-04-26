@@ -1,0 +1,52 @@
+
+.navbar {
+	box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+	
+	margin-bottom: 40px;
+	width: fit-content;
+	border-radius: 15px;
+	position: fixed;
+	z-index: 3;
+	
+} 
+
+
+
+ /* .navbar-nav {
+	margin-left: 20px;
+} */
+.data-menu .prod-pricePane .pesan{
+	font-family: "Viga", sans-serif;
+}
+
+
+.navbar-brand {
+	text-transform: uppercase;
+	font-size: 18px;
+	margin-right: 10px;
+	color: rgb(0, 0, 0) !important;
+	font-family: "Viga", sans-serif;
+}
+
+.judul{
+	font-family: "Viga", sans-serif;
+	color: rgb(255, 255, 255) !important;
+	font-size: 50px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.jumbotron {
+	
+	background-size : cover;
+		
+}
+
+.card {
+	width: 18rem;
+	height: 20rem;
+}
+
+
+
+
